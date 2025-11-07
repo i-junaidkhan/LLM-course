@@ -1,10 +1,6 @@
-# 🤖 LLM-Finetunning
+# 🤖 LLM
 
-[![GitHub Stars](https://img.shields.io/github/stars/i-junaidkhan/ml-course?style=social)](https://github.com/i-junaidkhan/ml-course)
 
-**Course to master Machine Learning with Colab notebooks**
-
-📫 [i-junaidkhan.github.io](https://i-junaidkhan.github.io) • [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME) • [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
 
 ---
 
