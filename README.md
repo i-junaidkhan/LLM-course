@@ -1,4 +1,4 @@
-# 🤖 Your Course Name
+# 🤖 LLM-Finetunning
 
 [![GitHub Stars](https://img.shields.io/github/stars/i-junaidkhan/ml-course?style=social)](https://github.com/i-junaidkhan/ml-course)
 
