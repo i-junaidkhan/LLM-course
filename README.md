@@ -1,16 +1,7 @@
-&lt;div align="center"&gt;
-&lt;img src="img/banner.png" alt="Your Course Name"&gt;
-  &lt;p align="center"&gt;
-    🐦 &lt;a href="https://twitter.com/YOUR_HANDLE"&gt;X/Twitter&lt;/a&gt; • 
-    💼 &lt;a href="https://linkedin.com/in/YOUR_PROFILE"&gt;LinkedIn&lt;/a&gt; • 
-    🎓 &lt;a href="https://scholar.google.com/citations?user=YOUR_ID"&gt;Google Scholar&lt;/a&gt; • 
-    🌐 &lt;a href="https://your-website.com"&gt;Website&lt;/a&gt;
-  &lt;/p&gt;
-&lt;/div&gt;
-&lt;br/&gt;
 
-&gt; [!NOTE]
-&gt; **Your course description here** - What it covers, who it's for, key benefits.
+
+
+&gt; **LLM** - What it covers, who it's for, key benefits.
 
 ## 📓 Notebooks
 
